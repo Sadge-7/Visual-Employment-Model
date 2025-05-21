@@ -42,14 +42,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
----
-
-## 📸 Screenshots
-
-<img src="screenshots/trend.png" width="400"/> <img src="screenshots/3d_plot.png" width="400"/>
-
----
-
 ## 📌 Future Work
 
 - Integrate real-time data from job platforms.
@@ -60,4 +52,4 @@ streamlit run streamlit_app.py
 
 ## 🙌 Acknowledgements
 
-Built with ❤️ by a Statistics major at the University of British Columbia.
+Built by Sage.
